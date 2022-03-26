@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dima Rad
+- 👋 Hi, I’m Dima Radushev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web apps and sites projects
